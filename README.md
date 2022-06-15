@@ -1,10 +1,6 @@
 # Find_Tiny_but_Important_Image_Changes
  Using Siamese Network to Find Tiny but Important Image Changes ------ Code Implementation
 
-Sorry for didn't reply in time. I'm tied up with other important projects, amd work hard till midnight every day. 
-
-Paper, dataset and full tutorial will be update in the future. They will be update completely before ~~December 2021~~ February 2022.
-
 About dataset
 ----
 Panoramic Change Detection Dataset (TSUNAMI and GSV)
@@ -12,6 +8,9 @@ https://kensakurada.github.io/pcd_dataset.html
 
 ChangeDetection 2014
 http://changedetection.net/
+
+and part of our data 
+[dataset](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/m0729013_cgu_edu_tw/EeENEeWgm51DqcgtjCAXHHgBiWofDsp4cfVUxbb_IEuwDw?e=bVKl2K)
 
 Work on 
 Ubuntu 20.04 Python 3.8.10  Torch 1.10.1+cu113 torchvision 0.11.2+cu113 RTX3080
